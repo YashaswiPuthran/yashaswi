@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
 hhhhhhhhhhhhhhhellllo
+=======
+hellllo
+what 
+>>>>>>> dev
